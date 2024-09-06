@@ -1,4 +1,4 @@
 package Ejercicios;
 
-public class Numeros_Perfectos }{
+public class Numeros_Perfectos {
 }
