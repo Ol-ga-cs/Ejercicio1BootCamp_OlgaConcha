@@ -1,6 +1,6 @@
 package Ejercicios;
 
-public class Suma_2_numeros {
+public class E1_Suma_2_numeros {
 
     public static void main(String[] args) {
         int a, b, suma;

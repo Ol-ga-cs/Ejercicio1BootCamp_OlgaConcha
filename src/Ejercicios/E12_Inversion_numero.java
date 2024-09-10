@@ -1,6 +1,6 @@
 package Ejercicios;
 
-public class Inversion_numero {
+public class E12_Inversion_numero {
     public static void main(String[] args){
         int a = 54321;
         int invierte = 0;

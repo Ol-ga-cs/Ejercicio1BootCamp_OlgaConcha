@@ -1,6 +1,6 @@
 package Ejercicios;
 
-public class Factorial {
+public class E10_Factorial {
     public static void main(String[] args) {
         int a = 6;
         int fact = 1;

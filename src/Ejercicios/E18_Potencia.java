@@ -1,6 +1,6 @@
 package Ejercicios;
 
-public class Potencia {
+public class E18_Potencia {
 
     public static void main(String args[]) {
         int a = 2;

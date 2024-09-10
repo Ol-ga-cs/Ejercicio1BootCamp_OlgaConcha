@@ -1,6 +1,6 @@
 package Ejercicios;
 
-public class Producto_2_numeros {
+public class E2_Producto_2_numeros {
 
     public static void main(String[] args) {
         int a, b, prod;

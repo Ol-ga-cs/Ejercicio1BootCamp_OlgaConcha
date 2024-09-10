@@ -1,6 +1,6 @@
 package Ejercicios;
 
-public class Area_Triangulo {
+public class E7_Area_Triangulo {
 
     public static void main(String[] args) {
         int b, h, area;

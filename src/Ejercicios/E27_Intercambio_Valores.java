@@ -1,6 +1,6 @@
 package Ejercicios;
 
-public class Intercambio_Valores {
+public class E27_Intercambio_Valores {
 
     public static void main(String[] args) {
         int a = 5;

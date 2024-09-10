@@ -1,6 +1,6 @@
 package Ejercicios;
 
-public class MCD {
+public class E28_MCD {
     public static void main(String[] args){
         int a = 48;
         int b = 18;

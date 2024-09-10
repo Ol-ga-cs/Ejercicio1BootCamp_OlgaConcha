@@ -1,6 +1,6 @@
 package Ejercicios;
 
-public class Divisibilidad {
+public class E23_Divisibilidad {
     public static void main(String[] args) {
         int a = 45;
         int x = 2;

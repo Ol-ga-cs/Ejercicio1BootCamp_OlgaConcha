@@ -1,6 +1,6 @@
 package Ejercicios;
 
-public class Suma_Multiplos_numero_rango {
+public class E24_Suma_Multiplos_numero_rango {
     public static void main(String args[]) {
         int b =50;
         int a = 1;

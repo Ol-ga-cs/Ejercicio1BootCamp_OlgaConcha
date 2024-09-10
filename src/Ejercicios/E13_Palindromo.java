@@ -1,6 +1,6 @@
 package Ejercicios;
 
-public class Palindromo {
+public class E13_Palindromo {
     public static void main(String[] args){
         int a = 1221;
         int invierte = 0;

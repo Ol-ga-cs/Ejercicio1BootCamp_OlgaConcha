@@ -1,6 +1,6 @@
 package Ejercicios;
 
-public class Primos {
+public class E4_Primos {
 
     public static boolean CalculaPrimo(int a){
         int cont = 2;

@@ -1,6 +1,6 @@
 package Ejercicios;
 
-public class Valor_Absoluto {
+public class E26_Valor_Absoluto {
 
     public static void main(String[] args) {
         int a = -15;

@@ -1,6 +1,6 @@
 package Ejercicios;
 
-public class Armstrong {
+public class E20_Armstrong {
     public static void main(String[] args) {
         int a = 153;
         int original = a;

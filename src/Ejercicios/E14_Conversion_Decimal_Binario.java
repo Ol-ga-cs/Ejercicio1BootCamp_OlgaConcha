@@ -1,6 +1,6 @@
 package Ejercicios;
 
-public class Conversion_Decimal_Binario {
+public class E14_Conversion_Decimal_Binario {
 
     public static void main(String[] args) {
         int exp, digito;

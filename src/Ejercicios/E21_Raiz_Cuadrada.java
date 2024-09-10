@@ -1,6 +1,6 @@
 package Ejercicios;
 
-public class Raiz_Cuadrada {
+public class E21_Raiz_Cuadrada {
 
          public static void main(String[] args) {
             double a = 64;

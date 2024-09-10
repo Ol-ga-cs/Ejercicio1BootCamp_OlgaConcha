@@ -1,6 +1,6 @@
 package Ejercicios;
 
-public class Suma_Pares_Rango {
+public class E17_Suma_Pares_Rango {
 
     public static void main(String args[]) {
         int b = 100;

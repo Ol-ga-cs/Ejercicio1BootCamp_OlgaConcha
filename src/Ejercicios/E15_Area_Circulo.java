@@ -1,6 +1,6 @@
 package Ejercicios;
 
-public class Area_Circulo {
+public class E15_Area_Circulo {
     public static void main(String[] args) {
         int r;
         double p, area;

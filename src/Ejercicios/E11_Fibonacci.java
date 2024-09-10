@@ -1,8 +1,6 @@
 package Ejercicios;
 
-import com.sun.source.tree.WhileLoopTree;
-
-public class Fibonacci {
+public class E11_Fibonacci {
     public static void main(String[] args){
         int n = 10;
         int x = 0;

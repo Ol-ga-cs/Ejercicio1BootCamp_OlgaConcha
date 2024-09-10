@@ -1,6 +1,6 @@
 package Ejercicios;
 
-public class Genera_Tabla_Multiplicar {
+public class E25_Genera_Tabla_Multiplicar {
 
     public static void main(String[] args) {
         int a = 7;

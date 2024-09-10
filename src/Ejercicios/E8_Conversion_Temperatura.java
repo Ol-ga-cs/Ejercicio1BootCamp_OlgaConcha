@@ -1,6 +1,6 @@
 package Ejercicios;
 
-public class Conversion_Temperatura {
+public class E8_Conversion_Temperatura {
 
     public static void main(String[] args) {
         int c = 25;

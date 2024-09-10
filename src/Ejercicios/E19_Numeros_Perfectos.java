@@ -1,6 +1,6 @@
 package Ejercicios;
 
-public class Numeros_Perfectos {
+public class E19_Numeros_Perfectos {
     public static void main(String[] args) {
         int suma = 0;
         int a = 28;

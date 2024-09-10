@@ -1,6 +1,6 @@
 package Ejercicios;
 
-public class Contar_Digitos_Numero {
+public class E22_Contar_Digitos_Numero {
     public static void main(String[] args) {
         int cantidad = 0;
         int a = 987654;

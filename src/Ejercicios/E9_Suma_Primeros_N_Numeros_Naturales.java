@@ -1,6 +1,6 @@
 package Ejercicios;
 
-public class Suma_Primeros_N_Numeros_Naturales {
+public class E9_Suma_Primeros_N_Numeros_Naturales {
     public static void main(String[] args) {
         int n = 50;
         int cont = 0;

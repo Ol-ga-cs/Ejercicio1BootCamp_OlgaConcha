@@ -1,6 +1,6 @@
 package Ejercicios;
 
-public class Maximo_3_numeros {
+public class E5_Maximo_3_numeros {
     public static void main(String[] args) {
         int a = 5;
         int b = 12;

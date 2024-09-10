@@ -1,8 +1,6 @@
 package Ejercicios;
 
-import javax.swing.*;
-
-public class Promedio_3_numeros {
+public class E6_Promedio_3_numeros {
 
     public static void main(String[] args) {
         int a, b, c;

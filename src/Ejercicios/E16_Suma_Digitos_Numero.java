@@ -1,6 +1,6 @@
 package Ejercicios;
 
-public class Suma_Digitos_Numero {
+public class E16_Suma_Digitos_Numero {
 
     public static void main(String[] args) {
         int digito, suma;
